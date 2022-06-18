@@ -1,0 +1,19 @@
+{
+  "gastos": [
+    {
+      "roommate": "Ines Deschamps",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "roommate": "Ryder Lavoie",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "roommate": "Edin Tøndel",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    }
+  ]
+}
